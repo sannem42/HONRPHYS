@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
   cout << "hello world" << endl;
   int i=2;
   cout << "i = " << i << endl;
@@ -12,5 +13,5 @@ int main(){
   int j = a*i;
   cout << "a*i = " << j << endl;
 
-return 0
+  return 0;
   }
