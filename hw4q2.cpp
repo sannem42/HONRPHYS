@@ -7,7 +7,7 @@ int main (){
     cout << "Factors of " << n << ": "; //outputs to screen
     for (int i=1; i<=n; i++){ //finds factors of n
       if (n%i == 0)
-	cout << i << ", ";
+	cout << i << " ";
     }
     cout << endl;
   }
